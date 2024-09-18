@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="db_kelvin_morel"/>
+  <table-filter match-name="usuario_kvm"/>
+  <table-filter match-name="produto_kvm"/>
+  <table-filter match-name="vendaProduto_kvm"/>
+  <table-filter match-name="venda_kvm"/>
+  <table-filter match-name="cliente_kvm"/>
+  <table-filter match-name="funcionario_kvm"/>
+</hibernate-reverse-engineering>
